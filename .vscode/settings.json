@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "app_uart.h": "c",
+        "nrf_drv_uart.h": "c",
+        "nrf_delay.h": "c",
+        "boards.h": "c",
+        "drv8801.h": "c",
+        "nrfx.h": "c",
+        "nrf_drv_saadc.h": "c",
+        "nrfx_saadc.h": "c",
+        "nrfx_config.h": "c",
+        "nrfx_glue.h": "c",
+        "arm_math.h": "c",
+        "nrf_mtx.h": "c",
+        "sdk_common.h": "c"
+    }
+}
